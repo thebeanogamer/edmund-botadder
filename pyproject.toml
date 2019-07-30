@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "edmund-botadder"
+name = "edmundbotadder"
 version = "0.1.0"
 description = ""
 authors = ["Daniel Milnes <thebeanogamer@gmail.com>"]
