@@ -10,7 +10,7 @@ Ok ok, hear me out. You know how sometimes you get an idea that's so awful you h
 
 You might have also noticed that I'm writing this readme before any actual code. That's because this is still funny in my head, so if this is never finished, it's because I got bored of the joke.
 
-![A GIF of Edmund despairing](https://media.giphy.com/media/eS7qcQofapIqc/giphy.gif)
+![A GIF of Edmund despairing](https://media1.tenor.com/images/d22eb7e7d29402f9b7c283d9a47c719d/tenor.gif?itemid=11243733)
 
 Still, if all goes well, I should end up with a somewhat functional bot that doesn't really achieve anything practical and only I find funny. So, lots to look forwards to...
 
